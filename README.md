@@ -101,8 +101,6 @@ Contributions are welcome! Feel free to **open issues** or **submit pull request
 
 ---
 
----
-
 ## ✍️ Author
 **Omkar Mahadev Bhandavalakar**
 
