@@ -101,9 +101,6 @@ Contributions are welcome! Feel free to **open issues** or **submit pull request
 
 ---
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
 ---
 
 ## ✍️ Author
